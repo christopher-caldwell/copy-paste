@@ -1,0 +1,20 @@
+{
+  "name": "Copy to Clipboard",
+  "version": "1.0",
+  "description": "Always have access to the things you're always copy and pasting.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Copy / Paste",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "http://*/*",
+    "https://*/*",
+    "storage"
+  ],
+  "icons": { 
+    "16": "copy16.png",
+    "48": "copy48.png",
+    "128": "copy128.png" 
+  }
+}
