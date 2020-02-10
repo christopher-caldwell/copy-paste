@@ -8,7 +8,7 @@ This exists because I was working on a project with 0 automation testing. I cons
 
 ## What
 
-It's surprisingly straightforward to make a Chrome extension. I followed [this talk]() on getting started.
+It's surprisingly straightforward to make a Chrome extension. I followed [this talk](https://www.youtube.com/watch?v=uh84Asy2W4s) on getting started.
 
 ### Stack
 
